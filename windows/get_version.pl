@@ -24,8 +24,8 @@ open(my $F, "<", "../src/.version") or do {
   print "$!\n";
   print "The file ../src/.version does not exist\n";
   print "Either you are not running this script from within\n";
-  print "the windows/ directory or you have accidently \n";
-  print "delete the file\n";
+  print "the windows/ directory or you have accidentally \n";
+  print "deleted the file\n";
   exit 1;
 };
 
