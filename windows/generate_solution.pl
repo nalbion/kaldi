@@ -48,7 +48,7 @@ my %FORMAT=( default=> "14.10",
 my %TOOLSET=( default=> "v141",
               vs2015 => "v140",
               vs2017 => "v141",
-              vs2019 => "v150"
+              vs2019 => "v142"
               );
 
 
